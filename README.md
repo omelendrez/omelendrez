@@ -1,5 +1,1 @@
 - 👋 Hi, I’m @omelendrez
-- 👀 I’m interested in IoT
-- 🌱 I’m currently learning Nodejs
-- 💞️ I’m looking to collaborate on IoT projects
-- 📫 How to reach me omar.melendrez@gmail.com
