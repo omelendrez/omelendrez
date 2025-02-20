@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omelendrez, a Senior Front End Engineer
+- 👋 Hi, I’m @omelendrez, a Tech Lead & Software Architect
 
 ---
 
